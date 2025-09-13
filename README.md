@@ -1,1 +1,10 @@
-# Atividade13
+# Atividade 13
+
+## Descrição  
+Projeto desenvolvido na disciplina de *Desenvolvimento Web, com foco na prática de estruturação de páginas utilizando **HTML5*.  
+
+## Acesso  
+[Visualizar o site](https://deboraliah.github.io/Atividade13/)  
+
+## Tecnologia  
+- HTML5
